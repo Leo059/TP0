@@ -13,6 +13,10 @@ TestResults
 *.user
 *.sln.docstates
 
+## Project and solution files
+*.sln
+*.csproj
+
 # Build results
 [Dd]ebug/
 [Rr]elease/
