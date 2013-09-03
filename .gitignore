@@ -16,6 +16,7 @@ TestResults
 ## Project and solution files
 *.sln
 *.csproj
+*.config
 
 # Build results
 [Dd]ebug/
